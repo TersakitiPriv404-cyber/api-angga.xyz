@@ -12,7 +12,7 @@ var lolkill = db.get("lolkill");
 var creatorList = ['Fajar','Tersakiti official','Fajar Gans','Fajar','Alfarizi','Tersakiti-api'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
-keyapi = 'api-Fajar'
+keyapi = 'api-FajarGans'
 
 var axios = require('axios');
 var qs = require('qs');
